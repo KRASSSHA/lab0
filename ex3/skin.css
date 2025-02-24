@@ -1,0 +1,24 @@
+body { 
+    background-color: #bf9ffcde; 
+    background-image: url('https://vgif.ru/gifs/142/vgif-ru-17788.gif'); /* Путь к вашему фоновому изображению */ 
+    color: #333; 
+    font-family: 'Times New Roman', Times, serif, sans-serif; 
+} 
+
+.title { 
+    border: 1px solid #bf9dff; 
+    margin: 14px; 
+    padding: 1px; 
+    background-color: #bf9ffcde; 
+} 
+
+h1 { 
+    border: 1px solid #bf9dff; 
+    margin: 14px; 
+    padding: 1px; 
+    background-color: #bf9ffcde; 
+} 
+
+#block1 { 
+    background-color: #f9f9f9; 
+} 
